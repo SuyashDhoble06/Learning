@@ -1,0 +1,19 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "HumNagpurkar",
+      "name": "Hum Nagpurkar",
+      "avatar_url": "",
+      "profile": "http://humnagpurkar.com",
+      "contributions": [
+        "Editor",
+        "Hum Nagpurkar"
+      ]
+    }
+  ]
+}
